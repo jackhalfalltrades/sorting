@@ -51,4 +51,4 @@ public class Sort {
 }
 
 
-// Time Complexity: O(n2)
+// Time Complexity: O(n^2)
